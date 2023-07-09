@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Atlantic Bazar</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Atlantic Bazar</h1>
+    <!-- Aquí puedes agregar tu logotipo -->
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="bazar.html">Bazar</a></li>
+      <li><a href="pijamas.html">Pijamas</a></li>
+      <li><a href="pantuflas.html">Pantuflas</a></li>
+      <li><a href="about.html">Acerca de nosotros</a></li>
+      <li><a href="contact.html">Contacto</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <!-- Aquí puedes agregar el contenido principal de cada sección -->
+    <section>
+      <h2>Bienvenido a Atlantic Bazar</h2>
+      <!-- Aquí puedes mostrar algunos productos destacados o información sobre tu empresa -->
+    </section>
+    
+    <section>
+      <h2>Bazar</h2>
+      <!-- Aquí puedes mostrar los productos de la sección de bazar -->
+    </section>
+    
+    <section>
+      <h2>Pijamas</h2>
+      <!-- Aquí puedes mostrar los productos de la sección de pijamas -->
+    </section>
+    
+    <section>
+      <h2>Pantuflas</h2>
+      <!-- Aquí puedes mostrar los productos de la sección de pantuflas -->
+    </section>
+    
+    <section>
+      <h2>Acerca de nosotros</h2>
+      <!-- Aquí puedes agregar información sobre tu empresa -->
+    </section>
+    
+    <section>
+      <h2>Contacto</h2>
+      <!-- Aquí puedes agregar un formulario de contacto o información de contacto -->
+    </section>
+  </main>
+  
+  <footer>
+    <!-- Aquí puedes agregar información adicional en el pie de página -->
+  </footer>
+  
+  <script src="script.js"></script>
+</body>
+</html>
